@@ -1,6 +1,6 @@
 ### Introducing Html5-boilerplate Kickstart Less
 I fondly refer to this effort as the Boiler Kick Less Project ;-)
-* **HTML5 Boilerplate** (http://html5boilerplate.com/)is a wonderful combination of best practices for HTML5 and CSS3. According to their website, HTML5 Boilerplate is the web’s most popular front-end template which helps you build fast, robust, and adaptable web apps or sites. They say you can "kick-start" your project with the combined knowledge and effort of 100s of developers, all in one little package.
+* **HTML5 Boilerplate** (http://html5boilerplate.com/) is a wonderful combination of best practices for HTML5 and CSS3. According to their website, HTML5 Boilerplate is the web’s most popular front-end template which helps you build fast, robust, and adaptable web apps or sites. They say you can "kick-start" your project with the combined knowledge and effort of 100s of developers, all in one little package.
 * **HTML5 Kickstart** (http://www.99lime.com/elements/) on the other hand includes Ultra–Lean HTML5, CSS, & JS Building Blocks for Rapid Website Production:
 
 ### Your help needed
